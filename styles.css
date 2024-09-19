@@ -2,6 +2,11 @@ body{
     background-color: black;
 }
 
+div.first{
+    display: flex;
+    justify-content: center;
+}
+
 h1{
     color: white;
 }
