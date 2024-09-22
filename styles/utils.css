@@ -1,3 +1,34 @@
+/* xs screens*/
+/* @media(min-width: 475px){
+   
+} */
+
+/* sm screens*/
+/* @media(min-width: 640px){
+ 
+} */
+
+/* md screens*/
+/* @media(min-width: 768px){
+   
+}  */
+
+/* lg screens*/
+/* @media(min-width: 1024){
+  
+} */
+
+/* xl screens*/
+/* @media(min-width: 1280px){
+} */
+
+/* 2xl screens*/
+/* @media(min-width: 1536px){
+  
+}  */
+
+
+
 .btn{
     display: inline-block;
     font-weight: 600;
