@@ -30,6 +30,18 @@
 
 }
 
+.header__line{
+    border: 1px solid var(--clr-slate600);
+    padding-top: 1.5em;
+}
+
+.header__sun{
+    display: block;
+    color: var(--clr-slate600);
+    width: var(--size-base);
+    height: var(--size-base);
+}
+
 /* xs screens*/
  @media(min-width: 475px){
    
