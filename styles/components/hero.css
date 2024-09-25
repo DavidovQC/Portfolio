@@ -1,11 +1,42 @@
 .hero{
+    text-align: center;
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
+    gap:.5rem;
+    margin-top: 2rem;
+
 }
 
 .hero__img{
-    height: 15rem;
-    width: 15rem;
+    height: 12rem;
+    width: 12rem;
     border-radius: 20%;
+}
+
+.hero__subtitle{
+    color: var(--clr-slate800);
+    font-size: var(--size-base);
+    line-height: 1.3;
+}
+
+.hero__title{
+    text-transform: uppercase;
+    color: var(--clr-slate400);
+    font-size: var(--size-4xl);
+    letter-spacing: -0.05em;
+    line-height: 0.9;
+    
+}
+
+.hero__description{
+    max-width: 60ch;
+    font-size: var(--size-s);
+    color: var(--clr-slate600);
+}
+
+.hero__btn{
+    text-transform: capitalize;
+    font-size: var(--size-s);
 }
