@@ -43,7 +43,6 @@
     display: flex;
     flex-direction: column;
     gap: 1em;
-    padding-left: 1em;
     padding-left: 3rem;
     padding-right: 3rem;
     /* border: red solid 1px; */
