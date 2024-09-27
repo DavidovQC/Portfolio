@@ -121,6 +121,10 @@
     .about{
         gap: 3rem;
     }
+
+    .about__img-wrapper{
+        padding-top: 2rem;
+    }
 }
 
 /* 2xl screens*/
